@@ -1,0 +1,28 @@
+{
+  "name": "LordOfGalaxy",
+  "version": "0.0.0",
+  "description": "A shooting game",
+  "main": "src/game/main.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "html5",
+    "game",
+    "javascript",
+    "phaser"
+  ],
+  "authors": [
+    "ManhDT"
+  ],
+  "license": "MIT",
+  "homepage": "zollback.bl.ee",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
